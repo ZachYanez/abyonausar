@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/abyonausar/static/css/main.0a0ad191.chunk.css",
-    "main.js": "/abyonausar/static/js/main.a2d50553.chunk.js",
-    "main.js.map": "/abyonausar/static/js/main.a2d50553.chunk.js.map",
+    "main.css": "/abyonausar/static/css/main.aee87bb0.chunk.css",
+    "main.js": "/abyonausar/static/js/main.77b493b2.chunk.js",
+    "main.js.map": "/abyonausar/static/js/main.77b493b2.chunk.js.map",
     "runtime-main.js": "/abyonausar/static/js/runtime-main.614cb0d3.js",
     "runtime-main.js.map": "/abyonausar/static/js/runtime-main.614cb0d3.js.map",
     "static/css/2.150d169a.chunk.css": "/abyonausar/static/css/2.150d169a.chunk.css",
@@ -14,7 +14,7 @@
     "service-worker.js": "/abyonausar/service-worker.js",
     "service-worker.js.map": "/abyonausar/service-worker.js.map",
     "static/css/2.150d169a.chunk.css.map": "/abyonausar/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.0a0ad191.chunk.css.map": "/abyonausar/static/css/main.0a0ad191.chunk.css.map",
+    "static/css/main.aee87bb0.chunk.css.map": "/abyonausar/static/css/main.aee87bb0.chunk.css.map",
     "static/js/2.c95a296c.chunk.js.LICENSE.txt": "/abyonausar/static/js/2.c95a296c.chunk.js.LICENSE.txt",
     "static/media/5032_Edit.65407d57.jpg": "/abyonausar/static/media/5032_Edit.65407d57.jpg",
     "static/media/5095_Edit.2f3437f5.jpg": "/abyonausar/static/media/5095_Edit.2f3437f5.jpg",
@@ -55,7 +55,7 @@
     "static/js/runtime-main.614cb0d3.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.c95a296c.chunk.js",
-    "static/css/main.0a0ad191.chunk.css",
-    "static/js/main.a2d50553.chunk.js"
+    "static/css/main.aee87bb0.chunk.css",
+    "static/js/main.77b493b2.chunk.js"
   ]
 }
