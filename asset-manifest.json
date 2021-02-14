@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abyonausar/static/css/main.34ebe7b8.chunk.css",
-    "main.js": "/abyonausar/static/js/main.a6005c6d.chunk.js",
-    "main.js.map": "/abyonausar/static/js/main.a6005c6d.chunk.js.map",
+    "main.js": "/abyonausar/static/js/main.014e2a99.chunk.js",
+    "main.js.map": "/abyonausar/static/js/main.014e2a99.chunk.js.map",
     "runtime-main.js": "/abyonausar/static/js/runtime-main.614cb0d3.js",
     "runtime-main.js.map": "/abyonausar/static/js/runtime-main.614cb0d3.js.map",
     "static/css/2.150d169a.chunk.css": "/abyonausar/static/css/2.150d169a.chunk.css",
@@ -53,13 +53,14 @@
     "static/media/headshot1.dd442a91.jpg": "/abyonausar/static/media/headshot1.dd442a91.jpg",
     "static/media/headshot2.24069099.jpg": "/abyonausar/static/media/headshot2.24069099.jpg",
     "static/media/headshot3.60d448d7.jpg": "/abyonausar/static/media/headshot3.60d448d7.jpg",
-    "static/media/headshot4.40ff9e36.jpg": "/abyonausar/static/media/headshot4.40ff9e36.jpg"
+    "static/media/headshot4.40ff9e36.jpg": "/abyonausar/static/media/headshot4.40ff9e36.jpg",
+    "static/media/headshot5.4d884f0e.jpg": "/abyonausar/static/media/headshot5.4d884f0e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.614cb0d3.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.03f91137.chunk.js",
     "static/css/main.34ebe7b8.chunk.css",
-    "static/js/main.a6005c6d.chunk.js"
+    "static/js/main.014e2a99.chunk.js"
   ]
 }
