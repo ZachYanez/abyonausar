@@ -1,15 +1,21 @@
-import React from "react";
-import Navbar from "react-bootstrap/Navbar";
+import Headshots from "../components/carousels/headshotPics";
 import Nav from "react-bootstrap/Nav";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import Headshots from "../components/carousels/headshotPics";
+import Navbar from "react-bootstrap/Navbar";
+import React from "react";
 import reel1 from "../assets/reels/Reel1.mp4";
 import reel2 from "../assets/reels/Reel2.mp4";
 
 export default function Acting() {
   return (
     <div className="background">
-      <Navbar className="header" collapseOnSelect expand="lg" bg="transparent" variant="dark">
+      <Navbar
+        className="header"
+        collapseOnSelect
+        expand="lg"
+        bg="transparent"
+        variant="dark"
+      >
         <Navbar.Brand href="#/">Abyon Ausar</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
@@ -17,31 +23,64 @@ export default function Acting() {
             <Nav.Link href="#/">Home</Nav.Link>
             <Nav.Link href="#Know">Get To Know Abyon</Nav.Link>
             <NavDropdown title="Where to Find Me" id="collasible-nav-dropdown">
-              <NavDropdown.Item target="_blank" href="https://www.imdb.com/name/nm11718272/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.imdb.com/name/nm11718272/"
+              >
                 IMDB
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.instagram.com/oswiftt/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.instagram.com/oswiftt/"
+              >
                 Instagram
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.facebook.com/oSwiftt/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.facebook.com/oSwiftt/"
+              >
                 Facebook
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.youtube.com/user/itcost2beaboss">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.youtube.com/user/itcost2beaboss"
+              >
                 Youtube
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.linkedin.com/in/abyonmcinnis/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.linkedin.com/in/abyonmcinnis/"
+              >
                 LinkedIn
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.acclaimtalent.com/profiles/abyon-ausar/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://resumes.actorsaccess.com/abyonausar"
+              >
+                Actors Access
+              </NavDropdown.Item>
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.acclaimtalent.com/profiles/abyon-ausar/"
+              >
                 Acclaim Talent
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.acclaimtalent.com/profiles/abyon-ausar/">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.acclaimtalent.com/profiles/abyon-ausar/"
+              >
                 Slamm Management
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="http://www.wallflowermanagement.com/boy_portfolio.php?id=169">
+              <NavDropdown.Item
+                target="_blank"
+                href="http://www.wallflowermanagement.com/boy_portfolio.php?id=169"
+              >
                 Wallflower Management
               </NavDropdown.Item>
-              <NavDropdown.Item target="_blank" href="https://www.slammmanagement.com/talent/abyon-mcinnis-64862">
+              <NavDropdown.Item
+                target="_blank"
+                href="https://www.slammmanagement.com/talent/abyon-mcinnis-64862"
+              >
                 ANTHM NY
               </NavDropdown.Item>
             </NavDropdown>
